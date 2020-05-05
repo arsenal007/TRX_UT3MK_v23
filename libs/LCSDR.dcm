@@ -193,6 +193,12 @@ K Voltage Regulator 1A Positive
 F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
 $ENDCMP
 #
+$CMP G6K-2F
+D FORWARD INDUSTRIAL, Miniature Dual Pole Relay, DIP-like package
+K relay monostable
+F https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663
+$ENDCMP
+#
 $CMP ICS501
 D Dual Bidirectional I2CBus and SMBus Voltage-Level Translator
 $ENDCMP
