@@ -47,14 +47,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text GLabel 2050 6100 0    60   Output ~ 0
-I2S_MCLK
-Text GLabel 2050 6550 0    60   BiDi ~ 0
-I2C_SDA_MCU
-Text GLabel 2050 6850 0    60   Output ~ 0
-LCD_DC
-Text GLabel 2050 6700 0    60   Output ~ 0
-LCD_CLK
-Text GLabel 2050 7000 0    60   Output ~ 0
-LCD_DIN
 $EndSCHEMATC
