@@ -798,4 +798,9 @@ Wire Wire Line
 	10150 1750 10350 1750
 Text GLabel 10350 1750 2    60   Input ~ 0
 BAND
+Wire Wire Line
+	1450 2600 1450 2500
+Connection ~ 1450 2600
+Text GLabel 1450 2500 1    60   BiDi ~ 0
+OUT
 $EndSCHEMATC

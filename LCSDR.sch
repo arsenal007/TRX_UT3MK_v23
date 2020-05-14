@@ -384,4 +384,26 @@ F 3 "" H 10100 4000 50  0001 C CNN
 	1    10100 4000
 	1    0    0    -1  
 $EndComp
+Text GLabel 7950 3150 0    60   BiDi ~ 0
+OUT
+Wire Wire Line
+	7950 3150 8200 3150
+$Comp
+L GND #PWR?
+U 1 1 5EBCD351
+P 8100 4200
+F 0 "#PWR?" H 8100 3950 50  0001 C CNN
+F 1 "GND" H 8100 4050 50  0001 C CNN
+F 2 "" H 8100 4200 50  0001 C CNN
+F 3 "" H 8100 4200 50  0001 C CNN
+	1    8100 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 4200 8100 3050
+Wire Wire Line
+	8100 3050 8200 3050
+Wire Wire Line
+	8200 3250 8100 3250
+Connection ~ 8100 3250
 $EndSCHEMATC
