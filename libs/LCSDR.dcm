@@ -150,6 +150,11 @@ K TTL DFF
 F 74xx/74hc_hct74.pdf
 $ENDCMP
 #
+$CMP 74LVC1G00DCKR
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
 $CMP 74LVC1G74
 D Dual D FlipFlop, Set & Reset
 K TTL DFF
