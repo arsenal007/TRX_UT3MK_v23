@@ -1,4 +1,4 @@
-update=03.05.2020 21:33:44
+update=08.06.2020 6:41:32
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,9 +68,7 @@ LibName25=libs/4ms-ic
 LibName26=Display
 LibName27=switches
 LibName28=cmos4000
-LibName29=Relay
-LibName30=conn
-LibName31=pcm2900c
-LibName32=Oscillators
-LibName33=74xx
-LibName34=relays
+LibName29=conn
+LibName30=Oscillators
+LibName31=74xx
+LibName32=relays
